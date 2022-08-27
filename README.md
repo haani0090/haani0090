@@ -4,6 +4,9 @@ Hi 👋 My name is hanii
 Full Stack Developer
 --------------------
 
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
 a creative coder, blogger and self-proclaimed developer I started my career as a frontend Developer when I was 20 y.o. In search of more freedom, I transitioned to freelancing, which slowly growing into a global software development agency 🔥 In Future, I should be a mobile developer making mobile Apps for iOS and Android.
 
 * 🌍  I'm based in Pakistan
@@ -13,6 +16,14 @@ a creative coder, blogger and self-proclaimed developer I started my career as a
 
 <a href="https://www.github.com/haani0090" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haani0090?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+## 🏆 **GITHUB TROPHY**
+
+![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+
+<a href="http://www.github.com/hicodersofficial"><img src="https://activity-graph.herokuapp.com/graph?username=hicodersofficial&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<br />
 
 ### Skills
 
