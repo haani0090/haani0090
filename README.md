@@ -17,13 +17,7 @@ a creative coder, blogger and self-proclaimed developer I started my career as a
 <a href="https://www.github.com/haani0090" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haani0090?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-
-<a href="http://www.github.com/hicodersofficial"><img src="https://activity-graph.herokuapp.com/graph?username=hicodersofficial&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br />
 
 ### Skills
 
